@@ -1,3 +1,5 @@
 {
-  "cdn":"https://maroon1.b-cdn.net"
+  "cdn":"https://maroon1.b-cdn.net",
+  "latest":1,
+  "update_url":"https://www.google.com"
 }
